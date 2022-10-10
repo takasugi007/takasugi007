@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @takasugi007
+- 👋 Hi, I’m @marcelino_a_m
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python for data science
 - 💞️ I’m looking to collaborate on ...
